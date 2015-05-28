@@ -3,6 +3,5 @@ ios-language-changer
 
 iOS language changer example app
 
-A simple app that allows the user to change language in-app, independent of the device setting.
+A simple app that allows the user to change indian local languages inside application.
 
-See http://createdineden.com/blog/2014/december/12/language-changer-in-app-language-selection-in-ios/ for the accompanying tutorial.
