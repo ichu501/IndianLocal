@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "27E2BB497AB0A919614C48484A69DEC577423A39",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B50087EC00BA2E2DF953689E54B19E7F9FBED09A" : 0,
+    "27E2BB497AB0A919614C48484A69DEC577423A39" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "29FE7D05-F110-4D41-A492-33017EE8D8DD",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B50087EC00BA2E2DF953689E54B19E7F9FBED09A" : "ios-language-changer",
+    "27E2BB497AB0A919614C48484A69DEC577423A39" : "IndianLocal\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Language Changer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Language Changer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ichu501\/IndianLocal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "27E2BB497AB0A919614C48484A69DEC577423A39"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ichu501\/ios-language-changer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B50087EC00BA2E2DF953689E54B19E7F9FBED09A"
+    }
+  ]
+}

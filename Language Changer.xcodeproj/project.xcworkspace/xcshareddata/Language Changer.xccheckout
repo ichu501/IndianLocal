@@ -7,34 +7,34 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>29FE7D05-F110-4D41-A492-33017EE8D8DD</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Language Changer</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>B50087EC00BA2E2DF953689E54B19E7F9FBED09A</key>
-		<string>https://github.com/ichu501/ios-language-changer.git</string>
+		<key>27E2BB497AB0A919614C48484A69DEC577423A39</key>
+		<string>https://github.com/ichu501/IndianLocal.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Language Changer.xcodeproj</string>
+	<string>Language Changer.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>B50087EC00BA2E2DF953689E54B19E7F9FBED09A</key>
+		<key>27E2BB497AB0A919614C48484A69DEC577423A39</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ichu501/ios-language-changer.git</string>
+	<string>https://github.com/ichu501/IndianLocal.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>B50087EC00BA2E2DF953689E54B19E7F9FBED09A</string>
+	<string>27E2BB497AB0A919614C48484A69DEC577423A39</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>B50087EC00BA2E2DF953689E54B19E7F9FBED09A</string>
+			<string>27E2BB497AB0A919614C48484A69DEC577423A39</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ios-language-changer</string>
+			<string>IndianLocal</string>
 		</dict>
 	</array>
 </dict>
